@@ -220,6 +220,15 @@
   style="display: inline-block; margin: 0 auto; max-width: 400px">
 <br/>
 
+
+<h2>Horas com Javascript</h2>
+<img
+  src="/js/relogio-js.PNG"
+  alt="Horas"
+  title="Horas"
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
+<br/>
+
 <h2>Modal jQuery</h2>
 <img
   src="/js/modal-custom-jquery.png"
@@ -228,17 +237,9 @@
   style="display: inline-block; margin: 0 auto; max-width: 400px">
 <br/>
 
-<h2>Horas</h2>
-<img
-  src="/js/relogio-js.PNG"
-  alt="Horas"
-  title="Horas"
-  style="display: inline-block; margin: 0 auto; max-width: 400px">
-<br/>
-
 <h2>Modal Bootstrap scripts</h2>
 <img
-  src="/js/Script-Modal-Bootstrap-jQuery.png"
+  src="/js/script-modal-bootstrap-jquery.PNG"
   alt="Modal Bootstrap scripts"
   title="Modal Bootstrap scripts"
   style="display: inline-block; margin: 0 auto; max-width: 400px">
