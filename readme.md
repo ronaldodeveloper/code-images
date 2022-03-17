@@ -42,14 +42,6 @@
 <br/>
 
 
-<h2>Atributos Globais HTML</h2>
-<img
-  src="/js/atributos-globais.png"
-  alt="Atributos Globais HTML"
-  title="Atributos Globais HTML"
-  style="display: inline-block; margin: 0 auto; max-width: 400px">
-<br/>
-
 <h2>BTN Menu</h2>
 <img
   src="/js/btn-menu.PNG"
@@ -231,7 +223,7 @@
 
 <h2>Modal jQuery</h2>
 <img
-  src="/js/modal-custom-jquery.png"
+  src="/js/modal-custom-jQ uery.png"
   alt="Modal jQuery"
   title="Modal jQuery"
   style="display: inline-block; margin: 0 auto; max-width: 400px">
@@ -306,6 +298,15 @@
   src="/js/useRef.png"
   alt="Hook UseRef"
   title="Hook UseRef"
+  style="display: inline-block; margin: 0 auto; max-width: 400px">
+<br/>
+
+
+<h2>Atributos Globais HTML</h2>
+<img
+  src="/js/atributos-globais.PNG"
+  alt="Atributos Globais HTML"
+  title="Atributos Globais HTML"
   style="display: inline-block; margin: 0 auto; max-width: 400px">
 <br/>
 
